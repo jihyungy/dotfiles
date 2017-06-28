@@ -27,6 +27,6 @@ unset TERMCAP
 unset MANPATH
 
 # Autostart systemd default session on tty1
-if [["$(tty)" == '/dev/tty1' ]]; then
+if [[ "$(tty)" == '/dev/tty1' ]]; then
 	exec startx
 fi
