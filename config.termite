@@ -1,0 +1,31 @@
+[options]
+allow_bold = true
+clickable_url = true
+font = Inconsolata for Powerline 13
+icon_name = terminal
+mouse_autohide = false
+scrollback_lines = 1000
+
+[colors]
+foreground = #b7b8b9
+background = #0c0d0e
+cursor = #b7b8b9
+
+highlight = #2f2f2f
+
+color0 = #0c0d0e
+color1 = #e31a1c
+color2 = #31a354
+color3 = #dca060
+color4 = #3182bd
+color5 = #756bb1
+color6 = #80b1d3
+color7 = #b7b8b9
+color8 = #737475
+color9 = #e31a1c
+color10 = #31a354
+color11 = #dca060
+color12 = #3182bd
+color13 = #756bb1
+color14 = #80b1d3
+color15 = #fcfdfe
